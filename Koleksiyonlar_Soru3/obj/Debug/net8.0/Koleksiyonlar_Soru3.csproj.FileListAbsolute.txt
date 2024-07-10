@@ -1,0 +1,14 @@
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Koleksiyonlar_Soru3\bin\Debug\net8.0\Koleksiyonlar_Soru3.exe
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Koleksiyonlar_Soru3\bin\Debug\net8.0\Koleksiyonlar_Soru3.deps.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Koleksiyonlar_Soru3\bin\Debug\net8.0\Koleksiyonlar_Soru3.runtimeconfig.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Koleksiyonlar_Soru3\bin\Debug\net8.0\Koleksiyonlar_Soru3.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Koleksiyonlar_Soru3\bin\Debug\net8.0\Koleksiyonlar_Soru3.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Koleksiyonlar_Soru3\obj\Debug\net8.0\Koleksiyonlar_Soru3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Koleksiyonlar_Soru3\obj\Debug\net8.0\Koleksiyonlar_Soru3.AssemblyInfoInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Koleksiyonlar_Soru3\obj\Debug\net8.0\Koleksiyonlar_Soru3.AssemblyInfo.cs
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Koleksiyonlar_Soru3\obj\Debug\net8.0\Koleksiyonlar_Soru3.csproj.CoreCompileInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Koleksiyonlar_Soru3\obj\Debug\net8.0\Koleksiyonlar_Soru3.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Koleksiyonlar_Soru3\obj\Debug\net8.0\refint\Koleksiyonlar_Soru3.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Koleksiyonlar_Soru3\obj\Debug\net8.0\Koleksiyonlar_Soru3.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Koleksiyonlar_Soru3\obj\Debug\net8.0\Koleksiyonlar_Soru3.genruntimeconfig.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Koleksiyonlar_Soru3\obj\Debug\net8.0\ref\Koleksiyonlar_Soru3.dll
